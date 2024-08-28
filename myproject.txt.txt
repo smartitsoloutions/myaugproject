@@ -1,6 +1,9 @@
 myproject:august 2024
 this is my new project code
-location: hyderabad
-address:madhapur
+location: Ameerpet, hyderabad 500016
+address:madhapur & Ameerpet
 Contact:9988998787
+Mail ID:
+Age:
+Qualification:
 
